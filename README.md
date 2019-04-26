@@ -3,7 +3,14 @@ Change your brightness with zenity !
 
 # Installation 
 
-git clone https://github.com/mzd245/brightness
-cd brightness 
-sudo chmod +x brightness.sh 
-sudo ./brightness 
+getting script directory with git :
+`git clone https://github.com/mzd245/brightness`
+
+Change your directory to 'brightness' :
+`cd brightness `
+
+Change script file permission :
+`sudo chmod +x brightness.sh `
+
+Execute script as root :
+`sudo ./brightness `
