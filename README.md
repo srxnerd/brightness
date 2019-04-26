@@ -1,9 +1,9 @@
 # brightness
 Change your brightness with zenity !
 
-#Installation 
+# Installation 
 
 git clone https://github.com/mzd245/brightness
 cd brightness 
 sudo chmod +x brightness.sh 
-./brightness 
+sudo ./brightness 
